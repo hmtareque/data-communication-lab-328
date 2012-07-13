@@ -189,14 +189,9 @@ char ch[20];
 
 		     printf("\n\n       Unipolar NRZ");
   }
-
-
-
 }
 
 //code end for NRZ
-
-
 
 
 //code starting for NRZ-L
@@ -273,22 +268,16 @@ char ch[20];
 			printf("\n");
 			printf("\n\n\t      NRZ-L");
 
-
 	   }
-           }
+ }
 
 
-                         //end of coding NRZ-L
+  //end of coding NRZ-L
 
 
-
-
-
-
-			//start coding for NRZ-I
+//start coding for NRZ-I
 
    else if(c==4)
-
    {
   
  char ch[50];
@@ -433,8 +422,7 @@ char ch[20];
     // end code for NRZ-I
 
 
-    // start coding for Manchester
-
+// start coding for Manchester
 
   else if(c==5)
   {
